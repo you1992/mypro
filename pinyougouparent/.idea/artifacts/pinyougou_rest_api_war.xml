@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pinyougou-rest-api:war">
+    <output-path>$PROJECT_DIR$/pinyougou-rest-api/target</output-path>
+    <root id="archive" name="pinyougou-rest-api.war">
+      <element id="artifact" artifact-name="pinyougou-rest-api:war exploded" />
+    </root>
+  </artifact>
+</component>
